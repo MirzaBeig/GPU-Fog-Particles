@@ -1,6 +1,6 @@
 # Atmospheric GPU Fog Particles
 
-Textureless fog particles for Unity using a highly customizable shader to attenuate multiple noise values. Works great as pseudo-volumetric atmospheric fog to add spooky and/or immersives vibes to your 3D levels.
+Textureless fog particles for Unity using a highly customizable shader to attenuate multiple layers of noise. Works great as pseudo-volumetric atmospheric fog to add spooky and/or immersives vibes to your 3D levels.
 
 https://user-images.githubusercontent.com/37354140/145661327-1026b95b-b52a-4230-8912-e596ebe4f136.mp4
 
