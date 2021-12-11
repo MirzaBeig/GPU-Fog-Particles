@@ -20,5 +20,9 @@ You'll find everything under Mirza Beig/GPU Fog Particles/...
 
 Drag and drop the prefabs into your scene.
 
+## Social Media
+- [Twitter](https://twitter.com/TheMirzaBeig/)
+- [YouTube](https://www.youtube.com/c/MirzaBeig)
+
 ## License
-[Unlicense (do whatever you want with this)...](LICENSE.txt)
+[Unlicense](LICENSE.txt) (do whatever you want with this)...
