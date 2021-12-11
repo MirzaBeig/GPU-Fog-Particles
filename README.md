@@ -1,8 +1,16 @@
 # GPU Fog Particles
 
-Textureless fog particles using a highly customizable shader to attenuate multiple noise values.
+Textureless fog particles for Unity using a highly customizable shader to attenuate multiple noise values. Works great as pseudo-volumetric atmospheric fog to add spooky and/or immersives vibes to your 3D levels.
 
-> [Watch the video of this in action.](https://twitter.com/TheMirzaBeig/status/1469485621467037698)
+https://user-images.githubusercontent.com/37354140/145661327-1026b95b-b52a-4230-8912-e596ebe4f136.mp4
+
+- [Watch the full video of this asset in action.](https://twitter.com/TheMirzaBeig/status/1469485621467037698)
+
+## Compatibility
+
+- Built-in pipeline.
+- Tested with Unity 2020.3 (LTS). 
+- Shader can be edited using Amplify Shader Editor.
 
 ## Installation
 
@@ -11,11 +19,6 @@ You'll find everything under Mirza Beig/GPU Fog Particles/...
 ## Usage
 
 Drag and drop the prefabs into your scene.
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [Unlicense (do whatever you want with this)...](LICENSE.txt)
