@@ -4,6 +4,8 @@ Textureless fog particles for Unity using a highly customizable shader to attenu
 
 https://user-images.githubusercontent.com/37354140/145661327-1026b95b-b52a-4230-8912-e596ebe4f136.mp4
 
+https://user-images.githubusercontent.com/37354140/146769909-29630b85-a591-4243-9d71-b6a629bb5cec.mp4
+
 - [Watch the full video of this asset in action.](https://twitter.com/TheMirzaBeig/status/1471820398056677376)
 
 ## Compatibility
