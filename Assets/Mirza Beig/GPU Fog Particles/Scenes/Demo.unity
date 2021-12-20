@@ -219,6 +219,63 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &219200461
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 409950186140754051, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 409950186140754051, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 409950186140754051, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 409950186140754051, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 409950186140754051, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 409950186140754051, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 409950186140754051, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 409950186140754051, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 409950186140754051, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 409950186140754051, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 409950186140754051, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 409950186140754062, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
+      propertyPath: m_Name
+      value: Falling Fog
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7ceb86c69f04f1248a25235e27f0709c, type: 3}
 --- !u!1 &531983657
 GameObject:
   m_ObjectHideFlags: 0
@@ -363,63 +420,6 @@ MonoBehaviour:
   m_BeforeTransparentBundles: []
   m_BeforeStackBundles: []
   m_AfterStackBundles: []
---- !u!1001 &902565289
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 409950186140754051, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 409950186140754051, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 409950186140754051, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 409950186140754051, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 409950186140754051, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 409950186140754051, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 409950186140754051, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 409950186140754051, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 409950186140754051, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 409950186140754051, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 409950186140754051, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 409950186140754062, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
-      propertyPath: m_Name
-      value: Falling Fog
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f1a130a92e35827498698c7232a8bd6f, type: 3}
 --- !u!1 &945168424
 GameObject:
   m_ObjectHideFlags: 0
