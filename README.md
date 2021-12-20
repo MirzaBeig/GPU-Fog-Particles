@@ -8,7 +8,8 @@ https://user-images.githubusercontent.com/37354140/145661327-1026b95b-b52a-4230-
 
 ## Compatibility
 
-- Built-in pipeline.
+- Built-in pipeline + URP.
+   - Project is setup for the built-in pipeline. Replace the shader on the materials for URP.
 - Tested with Unity 2020.3 (LTS). 
 - Shader can be edited using Amplify Shader Editor.
 
