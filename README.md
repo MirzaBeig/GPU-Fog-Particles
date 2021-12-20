@@ -8,13 +8,17 @@ https://user-images.githubusercontent.com/37354140/145661327-1026b95b-b52a-4230-
 
 ## Compatibility
 
-- Built-in pipeline.
+- Built-in pipeline + URP.
+   - Project is setup for the built-in pipeline. Replace the shader on the materials for URP.
 - Tested with Unity 2020.3 (LTS). 
-- Shader can be edited using Amplify Shader Editor.
+- Shaders can be edited using Amplify Shader Editor.
 
 ## Installation
 
 You'll find everything under Mirza Beig/GPU Fog Particles/...
+
+Due to supporting both built-in and URP, you may get shader errors on import from the file that doesn't match your current pipeline. 
+This is expected and not an issue. You can ignore these errors, or delete the offending shader file if it keeps you sane.
 
 ## Usage
 
