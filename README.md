@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/37354140/146769909-29630b85-a591-4243-
 You'll find everything under Mirza Beig/GPU Fog Particles/...
 
 Due to supporting both built-in and URP, you may get shader errors on import from the file that doesn't match your current pipeline. 
-This is expected and not an issue. You can ignore these errors, or delete the offending shader file if it keeps you sane.
+This is expected and not an issue. You can ignore these errors, or delete the offending shader if it keeps you sane.
 
 ## Usage
 
