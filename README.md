@@ -11,7 +11,6 @@ https://user-images.githubusercontent.com/37354140/146769909-29630b85-a591-4243-
 ## Compatibility
 
 - Built-in pipeline + URP.
-   - Project is setup for the built-in pipeline. Replace the shader on the materials for URP.
 - Tested with Unity 2020.3 (LTS). 
 - Shaders can be edited using Amplify Shader Editor.
 
@@ -25,6 +24,7 @@ This is expected and not an issue. You can ignore these errors, or delete the of
 ## Usage
 
 Drag and drop the prefabs into your scene.
+The project is setup for the built-in pipeline. Replace the shader on the materials for URP.
 
 ## Social Media
 - [Twitter](https://twitter.com/TheMirzaBeig/)
