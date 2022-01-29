@@ -35,6 +35,6 @@ The project is setup for the built-in pipeline. Replace the shader on the materi
 
 ## Support/Donate...
 
-This is a FREE asset. However, if you'd like, you can support me via one of the sponsor links on the side. 
+This is a FREE asset. However, if you'd like, you can support me via one of the sponsor links on the side.
 
 Every bit is appreciated!
