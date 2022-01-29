@@ -32,3 +32,7 @@ The project is setup for the built-in pipeline. Replace the shader on the materi
 
 ## License
 [Unlicense](LICENSE.txt) (do whatever you want with this)...
+
+## Support/Donate...
+
+This is a FREE asset. However, if you'd like, you can support me via one of the sponsor links on the side. Every bit is appreciated!
