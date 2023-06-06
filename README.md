@@ -1,6 +1,24 @@
 # Atmospheric GPU Fog Particles
 
+[![Unity Version](https://img.shields.io/badge/Unity-2021.3%20LTS%2B-blueviolet?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_✔️-darkgreen?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_❌-darkred?logo=unity)](https://unity3d.com/get-unity/download)
+
+[![GitHub followers](https://img.shields.io/github/followers/MirzaBeig?style=social)](https://github.com/MirzaBeig?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheMirzaBeig?style=social)](http://twitter.com/intent/user?screen_name=TheMirzaBeig)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
+
 Textureless fog particles for Unity using a highly customizable shader to attenuate multiple layers of noise. Works great as pseudo-volumetric atmospheric fog to add spooky and/or immersive vibes to your 3D levels.
+
+[![Stars](https://img.shields.io/github/stars/MirzaBeig/GPU-Fog-Particles?style=for-the-badge)](../../stargazers)
+[![Forks](https://img.shields.io/github/forks/MirzaBeig/GPU-Fog-Particles?style=for-the-badge)](../../forks)
+[![GitHub watchers](https://img.shields.io/github/watchers/MirzaBeig/GPU-Fog-Particles?style=for-the-badge)](../../watchers)
+[![GitHub repo size](https://img.shields.io/github/repo-size/MirzaBeig/GPU-Fog-Particles?style=for-the-badge)](../../)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MirzaBeig/GPU-Fog-Particles?style=for-the-badge)](../../)
+
+# Preview
 
 https://user-images.githubusercontent.com/37354140/145661327-1026b95b-b52a-4230-8912-e596ebe4f136.mp4
 
